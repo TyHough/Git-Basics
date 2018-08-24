@@ -1,7 +1,7 @@
 GitHubBasics
 ****************
 
-remote repo to help me test out my github skills. 
+Showing off my wild github skills. 
 
 ### This really needs another header
 
